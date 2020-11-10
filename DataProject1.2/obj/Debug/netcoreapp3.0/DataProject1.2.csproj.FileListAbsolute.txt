@@ -1,0 +1,11 @@
+/Users/cemsertkaya/Projects/DataProject1.2/DataProject1.2/bin/Debug/netcoreapp3.0/DataProject1.2
+/Users/cemsertkaya/Projects/DataProject1.2/DataProject1.2/bin/Debug/netcoreapp3.0/DataProject1.2.deps.json
+/Users/cemsertkaya/Projects/DataProject1.2/DataProject1.2/bin/Debug/netcoreapp3.0/DataProject1.2.runtimeconfig.json
+/Users/cemsertkaya/Projects/DataProject1.2/DataProject1.2/bin/Debug/netcoreapp3.0/DataProject1.2.runtimeconfig.dev.json
+/Users/cemsertkaya/Projects/DataProject1.2/DataProject1.2/bin/Debug/netcoreapp3.0/DataProject1.2.dll
+/Users/cemsertkaya/Projects/DataProject1.2/DataProject1.2/bin/Debug/netcoreapp3.0/DataProject1.2.pdb
+/Users/cemsertkaya/Projects/DataProject1.2/DataProject1.2/obj/Debug/netcoreapp3.0/DataProject1.2.csprojAssemblyReference.cache
+/Users/cemsertkaya/Projects/DataProject1.2/DataProject1.2/obj/Debug/netcoreapp3.0/DataProject1.2.AssemblyInfoInputs.cache
+/Users/cemsertkaya/Projects/DataProject1.2/DataProject1.2/obj/Debug/netcoreapp3.0/DataProject1.2.AssemblyInfo.cs
+/Users/cemsertkaya/Projects/DataProject1.2/DataProject1.2/obj/Debug/netcoreapp3.0/DataProject1.2.dll
+/Users/cemsertkaya/Projects/DataProject1.2/DataProject1.2/obj/Debug/netcoreapp3.0/DataProject1.2.pdb

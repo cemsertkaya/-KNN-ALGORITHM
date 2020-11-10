@@ -1,0 +1,43 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\hp\\Downloads\\05180000116_CemSertkaya_05180000029_YasinÜnsal\\05180000116_CemSertkaya_05180000029_YasinÜnsal\\DataProject1.2\\DataProject1.2\\DataProject1.2.csproj",
+      "projectName": "DataProject1.2",
+      "projectPath": "C:\\Users\\hp\\Downloads\\05180000116_CemSertkaya_05180000029_YasinÜnsal\\05180000116_CemSertkaya_05180000029_YasinÜnsal\\DataProject1.2\\DataProject1.2\\DataProject1.2.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hp\\Downloads\\05180000116_CemSertkaya_05180000029_YasinÜnsal\\05180000116_CemSertkaya_05180000029_YasinÜnsal\\DataProject1.2\\DataProject1.2\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {}
+    }
+  }
+}
